@@ -4,7 +4,7 @@ Frontend Engineer focused on building **scalable, maintainable, and performant w
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sdey1122&label=Profile%20Views&color=0e75b6)
 
-- Strong foundation in **JavaScript, TypeScript, and React**
+- Strong foundation in **JavaScript, TypeScript, and React
 - Experience with **modern UI systems and state management**
 - Passionate about **clean code, UI polish, and performance**
 
