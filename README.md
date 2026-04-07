@@ -1,6 +1,6 @@
 ## Hi, I'm Subhankar
 
-FullStack Developer focused on building **scalable, maintainable, and performant web applications
+FullStack Developer focused on building **scalable, maintainable, and performant web applications**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sdey1122&label=Profile%20Views&color=0e75b6)
 
