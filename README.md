@@ -16,11 +16,12 @@ FullStack Developer focused on building **scalable, maintainable, and performant
 - HTML, CSS
 - JavaScript (ES6+), TypeScript
 - React, Next.js
-- Redux, Redux Toolkit
-- Bootstrap, Tailwind CSS, Material UI
+- Redux Toolkit
+- Bootstrap, Tailwind CSS, MUI, shadcn/ui
 
 **Backend (Working Knowledge)**
 - Node.js, Express.js
+- Redis
 - NestJS
 - MongoDB
 
